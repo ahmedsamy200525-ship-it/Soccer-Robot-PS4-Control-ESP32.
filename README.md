@@ -25,5 +25,4 @@ A high-performance Soccer Robot firmware featuring a specialized **Ball Collecto
 To connect your PS4 controller, you must first sync the MAC address. I have documented the full process and provided a dedicated test code here:
 👉 **[ESP32-PS4-Controller-Configuration]::
 
-https://github.com/ahmedsamy200525-ship-it/ESP32-PS4-Controller-Configuration .
-
+[Controller Guide](https://github.com/ahmedsamy200525-ship-it/ESP32-PS4-Controller-Configuration.)
